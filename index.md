@@ -12,7 +12,7 @@
 <li> Finish reading for Contemporary German, practive hiragana for Lan4141</li></bu>
 
 <p><h2> My three favourite things</h2>
-<bu> <ol> <li> My Razer Phone </ol> </li>
+<ol> <li> My Razer Phone </li>
 <li> Full Nutella jar  </li>
 <li> The Elisabeth line(Crossrail) as soon as it opens </li></ol>
 
