@@ -13,7 +13,7 @@
 
 <p><h2> My three favourite things</h2>
 <ol> <li> My Razer Phone </li>
-<li> Full Nutella jar  </li>
-<li> The Elisabeth line(Crossrail) as soon as it opens </li></ol>
+<li> Full Nutella jar </li>
+<li> The Elisabeth line(Crossrail) as soon as it opens </li> </ol>
 
 <hr> <hr>
