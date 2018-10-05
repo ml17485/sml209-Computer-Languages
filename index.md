@@ -9,7 +9,7 @@
 <p><h2>To-Do and NOT-To-Do List</p> </h2>
 <bu> <li> Pick up contact lenses from the post office</li>
 <li>Resist buying another jar of Nutella, only one a month!</li>
-<li> Finish reading for Contemporary German, practive hiragana for Lan4141<li></bu>
+<li> Finish reading for Contemporary German, practive hiragana for Lan4141</li></bu>
 
 <p><h2> My three favourite things</h2>
 <bu> <ol> <li> My Razer Phone </ol> </li>
