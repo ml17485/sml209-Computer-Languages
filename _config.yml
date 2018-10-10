@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 
 title: Lean English Today
 description: Simple steps to perfect English
+Github:
+  page2: PageTwo.html
+  page3: PageThree/html
