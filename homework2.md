@@ -1,7 +1,9 @@
 <h1> HTML Part 2 Homework</h1>
 <h5>16<sup>th</sup> October 2018</h5>
 
-<img style="width:70%; vertical-align:top; border:1px solid #021a40;"   src="https://i.kym-cdn.com/photos/images/newsfeed/001/239/963/e88.jpg" alt="The Scroll of Truth Meme" >
+<img style="width:70%; vertical-align:top; border:1px solid red"   src="https://i.kym-cdn.com/photos/images/newsfeed/001/239/963/e88.jpg" alt="The Scroll of Truth Meme" >
+
+
 <dl><dt>About<dd> The Scroll of Truth is an exploitable image series based on a web comic by artist Tate Parker, in which an explorer discovers a scroll that provides various unpleasant or unsettling truths, causing him to angrily toss the parchment away.</dd></dt>
 <dt> Origin<dd>On February 2nd, 2017, Parker posted a webcomic titled "Truth" on Tumblr, featuring an archaeologist who finds a "Scroll of Truth" that proclaims "no one reads your rants on your Facebook page," causing him to throw it away while yelling "nyehhh" (shown above). Within two months, the comic gained over 930 notes.
 On March 26th, 4chan user 'meme distributor' submitted a blank template of the comic, leading others to reply with photoshopped variations of the image. </dd></dt>
