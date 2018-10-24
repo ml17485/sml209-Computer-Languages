@@ -1,10 +1,7 @@
 <h1> HTML Part 2 Homework</h1>
 <h5>16<sup>th</sup> October 2018</h5>
 
-<img class="imgScroll" 
-style="width:70%; 
-vertical-align:top; 
-border:1px solid red"   
+<img class="imgScroll"    
 src="https://i.kym-cdn.com/photos/images/newsfeed/001/239/963/e88.jpg" alt="The Scroll of Truth Meme" >
 
 
