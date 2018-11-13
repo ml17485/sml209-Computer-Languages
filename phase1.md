@@ -1,4 +1,4 @@
-<h1><span lang="EN-GB">Phase One: Fuel Stage</span></h1>
+<h1>Phase One: Fuel Stage</h1>
 <p>On your way to the fuel there are so many different scenarios and paths that we&rsquo;d have to cover,&hellip; that we re just not going to do it. I&rsquo;d like to mention that we only played the Beta for a whole of ~20hours before writing this guide so we can not really cover every possible path. But here is some general information to get you around.</p>
 <h3>General Guide for moving fuel around.</h3>
 <ul>
