@@ -17,3 +17,8 @@
 <li> The Elisabeth line(Crossrail) as soon as it opens </li> </ol>
 
 <hr> <hr>
+<div class="discord-banner">
+<div class="discord-message">
+<p>Coming first to <span>Discord</span></p>
+</div>
+</div>
